@@ -84,7 +84,7 @@ select*
  from `cleaned_dataset (1)`
  where Liveness > (select avg(Liveness)
  from `cleaned_dataset (1)`);
- -- 13 use a with clauses to calculate the difference between the
+ -- 3 use a with clauses to calculate the difference between the
  -- highest and lowest energy values for tracks in each album
  with cte as
  (select Album,max(Energy) as Max_energy,min(Energy) as min_energy
