@@ -1,7 +1,7 @@
 # sql_project
 
 [Click Here to get Dataset](https://www.kaggle.com/datasets/sanjanchaudhari/spotify-dataset)
-![Spotify Logo](https://github.com/najirh/Spotify-Data-Analysis-using-SQL/blob/main/spotify_logo.jpg)
+
 
 
 # Overview
